@@ -2,5 +2,9 @@
   {
     "cve": "SNYK-ALPINE315-MUSL-1928332",
     "alwaysOmit": true
+  },
+  {
+    "cve": "SNYK-JS-NANOID-2332193",
+    "alwaysOmit": true
   }
 ]
